@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449338551612",
+    "project_id": "corneroffice-160107"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449338551612:android:6cb5dddab8ad8ed8",
+        "android_client_info": {
+          "package_name": "com.oda.corneroffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449338551612-8qs1b4ta08kdt1edvjgi2eelpbt34elf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oda.corneroffice",
+            "certificate_hash": "a14c48d3581b6a59e044f1829cd8b6c57141b603"
+          }
+        },
+        {
+          "client_id": "449338551612-s73a6ans42n74jg542fhkoreruk87hin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFhJM49cb-d4huNcZr18Og5t7e2ovnFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
