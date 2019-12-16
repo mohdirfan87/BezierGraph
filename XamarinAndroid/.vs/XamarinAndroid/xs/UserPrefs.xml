@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{555E6332-FC64-4C00-8B4F-02030A8619AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Controls/Telemetry/SmartGauge.cs">
+    <Files>
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/DashboardActivity.cs" Line="562" Column="37" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/TelemetryConfigurationActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/TelemetrySensorConfigurationActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/TelemetrySensorTypeSelectionActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/Dashboard/SmartESCGraphFragment.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/Shared/StorageModels/Telemetry/Configuration/TelemetryConfiguration.cs" />
+      <File FileName="../../Desktop/Xam/Teacher/Teacher/Teacher.Android/MainActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/ConfigureFragmentHelper.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/Shared/StorageModels/Telemetry/Configuration/SmartBatterySensorConfiguration.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/Shared/StorageModels/Telemetry/TelemetrySensor.SensorType.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/Shared/StorageModels/Telemetry/Configuration/RpmSensorConfiguration.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/Configuration/TelemetryRpmSensorConfigurationFragment.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/Shared/StorageModels/Telemetry/Configuration/ElectronicSpeedControlSensorConfiguration.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/TelemPanelManagementActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/PanelConfigurationActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Views/Telemetry/GaugePanelManagementActivity.cs" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Resources/layout/TelemetryConfigurationActivity.axml" />
+      <File FileName="../../Desktop/ix20_develop_ramandeep/airware_ix/UI/Controls/Telemetry/SmartGauge.cs" Line="184" Column="13" />
+      <File FileName="XamarinAndroid/Views/MyView.cs" Line="97" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AirWare_ix20" expanded="True">
+            <Node name="UI" expanded="True">
+              <Node name="Controls" expanded="True">
+                <Node name="Telemetry" expanded="True">
+                  <Node name="SmartGauge.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="XamarinAndroid" expanded="True">
+            <Node name="XamarinAndroid" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinAndroid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

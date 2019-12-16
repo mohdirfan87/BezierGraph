@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_marginTop="10dp"
+		android:id="@+id/battery_title_tv"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:text="@string/battery_title"
+		android:textColor="@color/gauge_title_color"
+		android:textSize="15sp" />
+	<LinearLayout
+        android:id="@+id/BatteryMainLayout"
+		android:layout_marginTop="20dp"
+		android:layout_below="@+id/battery_title_tv"
+		android:orientation="horizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<View
+			android:layout_weight=".25"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"/>
+		<LinearLayout
+			android:id="@+id/BatteryStripLayout"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_weight=".5"
+			android:orientation="vertical">
+
+			<TextView
+                android:layout_marginBottom="15dp"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center_horizontal"
+				android:text="@string/battery_value"
+				android:textColor="@color/white_color"
+				android:textSize="40sp" />
+
+		</LinearLayout>
+		<View
+			android:layout_weight=".25"
+			android:layout_width="0dp"
+			android:layout_height="match_parent"/>
+	</LinearLayout>
+
+
+	<ImageView
+        android:layout_alignParentBottom="true"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		 android:layout_marginBottom="15dp"
+		android:src="@drawable/smart_banner" />
+</RelativeLayout>

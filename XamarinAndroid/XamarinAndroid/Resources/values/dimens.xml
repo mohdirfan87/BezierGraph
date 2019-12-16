@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <dimen name="fab_margin">16dp</dimen>
+  <dimen name="battery_height">10dp</dimen>
+ <dimen name="battery_margin_top">3dp</dimen>
+
+<dimen name="battery_side_padding">30dp</dimen>
+</resources>

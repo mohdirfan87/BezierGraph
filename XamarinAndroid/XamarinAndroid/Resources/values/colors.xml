@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+<color name="black_color">#000000</color>
+<color name="white_color">#FFFFFF</color>
+
+  
+
+    <color name="battery_empty_bg">#68747A</color>
+    <color name="battery_chareg_bg">#21B359</color>
+ <color name="gauge_title_color">#E0E4E7</color>
+</resources>

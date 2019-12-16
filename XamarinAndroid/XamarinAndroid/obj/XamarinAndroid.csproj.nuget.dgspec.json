@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohd.irfan/Projects/XamarinAndroid/XamarinAndroid/XamarinAndroid.csproj": {}
+  },
+  "projects": {
+    "/Users/mohd.irfan/Projects/XamarinAndroid/XamarinAndroid/XamarinAndroid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohd.irfan/Projects/XamarinAndroid/XamarinAndroid/XamarinAndroid.csproj",
+        "projectName": "XamarinAndroid",
+        "projectPath": "/Users/mohd.irfan/Projects/XamarinAndroid/XamarinAndroid/XamarinAndroid.csproj",
+        "packagesPath": "/Users/mohd.irfan/.nuget/packages/",
+        "outputPath": "/Users/mohd.irfan/Projects/XamarinAndroid/XamarinAndroid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/mohd.irfan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.RecyclerView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
